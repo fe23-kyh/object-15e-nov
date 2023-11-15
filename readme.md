@@ -1,7 +1,7 @@
 # 15e November
 Observera att ingen OOP introducerades idag, detta sker 17e november. Alla övningar på OOP är tänkta att lösas under fredagen. Det vi sysslar med idag är en objekt liknande struktur kallad object literals.
 
-Börja med att se videon "Kort video om objekt literals" nedanför.
+Börja med att se videon "Kort video om objekt literals" nedanför. Se gärna flera videor i samma serie för mer OOP (kommer senare i kursen).
 
 ## Live-kod
 
